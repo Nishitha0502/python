@@ -1,0 +1,3 @@
+a= "VIRAT FROM DELHI"
+b="".join(i for i in a if i in"AEIOU")
+print(b)
