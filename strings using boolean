@@ -1,0 +1,5 @@
+a= "2"
+b=a.isalpha()
+c=a.isdigit()
+d=a.isalnum()
+print(d)
